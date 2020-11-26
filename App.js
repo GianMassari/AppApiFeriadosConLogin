@@ -57,32 +57,6 @@ export default class App extends React.Component {
      );
   }
 
-/* <Container>
-
-          <Header>
-            <Left />
-            <Body>
-              <Title>Feriados Api</Title>
-            </Body>
-            <Right />
-          </Header>
-          <ScrollView>
-            <View>
-              <FormDatos />
-            </View>
-          </ScrollView>
-        </Container>*/ 
-        
-      /*}<Button
-  title="Learn More"
-  color="#841584"
-  onPress={() => Alert.alert('Simple Button pressed')}
-  accessibilityLabel="Learn more about this purple button"/>
-      <StatusBar style="auto" />
-    </Container>
-  */
-
- 
   }
 }
 
